@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {SafeAreaView, View, ScrollView, Text} from 'react-native';
 import {Appbar, Button, TextInput} from 'react-native-paper';
-import HeaderComponent from './HeaderComponent';
+import HeaderComponent from '../HeaderComponent';
 import Styles from './RegisterStyles';
 
 class Register extends Component {
